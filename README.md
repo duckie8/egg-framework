@@ -1,6 +1,6 @@
-# sports-api
+# egg-framework
 
-新体教接口项目
+egg.js框架功能添加
 
 ## QuickStart
 
